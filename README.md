@@ -11,6 +11,7 @@
 Заготовка программы находится в [script.js](./script.js). Продолжай работать в ней.
 
 Если хочешь, можешь опубликовать результат на GitHub Pages, а ссылку на него вставить в README
+https://olgalistopad.github.io/the-questionnaire/
 ___
 ❗️**Важно:** чтобы GitHub Pages не злился и не блокировал сетевые запросы, можешь вместо адреса `http://46.21.248.81:3001/` (протокол HTTP) использовать `https://polinashneider.space/` (HTTPS)
 ___
