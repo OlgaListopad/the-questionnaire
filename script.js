@@ -23,7 +23,7 @@ sendButton.addEventListener('click', function(event) {
         //если чекбокс отмечен, то отправляем данные на сервер
 
         //отправляем POST-запрос на сервер
-        fetch(`http://46.21.248.81:3001/user`, {
+        fetch(`https://polinashneider.space/user`, {
                 method: 'POST',
                 headers: {
                     'Accept': 'application/json',
